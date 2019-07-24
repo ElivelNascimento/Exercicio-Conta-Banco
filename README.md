@@ -1,2 +1,2 @@
 # Exercicio-Conta-Banco
-Exercício de deposito java na IDE Eclipse.
+Exercício feito em java na IDE Eclipse.
